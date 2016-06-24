@@ -1,0 +1,2 @@
+Dictionary Project:
+_ An English-English dictionary using Java Hash map as a data structure to store the vocabulary database. The Hash map works as a look-up table in order to look up the word that the user inputted.  
